@@ -1,35 +1,35 @@
  
 
- => FREE HTML TEMPLATE LICENSE BY HTML Codex
+ => LICENCIA DE PLANTILLAS HTML GRATUITAS DE HTML Codex
 
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author’s credit link/attribution link/backlink.
+ Todas las plantillas HTML gratuitas de HTML Codex están bajo licencia Creative Commons Attribution 4.0 International License, lo que significa que no está permitido eliminar el enlace de crédito/atribución/enlace del autor.
 
- When you download or use our free HTML templates, it will attribute the following conditions.
-
-
- => YOU ARE ALLOWED
-
-      1. You are allowed to use for your personal and commercial purposes.
-
-      2. You are allowed to modify/customize however you like.
-
-      3. You are allowed to convert/port for use for any CMS.
-
-      4. You are allowed to share/distribute under the HTML Codex brand name.
-
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
+ Al descargar o utilizar nuestras plantillas HTML gratuitas, atribuirá las siguientes condiciones.
 
 
- => YOU ARE NOT ALLOWED
+ => SE LE PERMITE
 
-      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
+      1. Se le permite utilizar para sus fines personales y comerciales.
 
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
+      2. Se le permite modificar / personalizar como quieras.
 
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
+      3. Se le permite convertir / puerto para su uso para cualquier CMS.
 
- This license can be terminated if you breach any of these conditions.
+      4. Se le permite compartir/distribuir bajo la marca HTML Codex.
 
- Please contact us (https://htmlcodex.com/contact) if you have any query.
+      5. Se le permite poner una captura de pantalla o un enlace en su blog o cualquier otro sitio web.
 
- => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+
+ => NO ESTÁ PERMITIDO
+
+      1. 1. No está permitido eliminar el enlace de crédito del autor / enlace de atribución / enlace de retroceso sin comprar la licencia de eliminación de crédito ( https://htmlcodex.com/credit-removal ).
+
+      2. No está permitido vender, revender, alquilar, arrendar, licenciar o sublicenciar.
+
+      3. 3. No está permitido cargar en sus sitios web de plantillas o sitios web de colección de plantillas o cualquier otro sitio web de terceros sin nuestro permiso.
+
+ Esta licencia puede rescindirse si incumple alguna de estas condiciones.
+
+ Póngase en contacto con nosotros (https://htmlcodex.com/contact) si tiene alguna duda.
+
+ => COMPRAR LICENCIA DE ELIMINACIÓN DE CRÉDITO ( https://htmlcodex.com/credit-removal )
